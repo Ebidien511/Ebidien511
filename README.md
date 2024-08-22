@@ -1,4 +1,9 @@
 ## Hi there 👋
+My name is Ebraheem, and  I'm a 3rd year BCom Information Systems student at the University of Cape Town.
+- 🔭 I’m currently working on an Online Multplayer Trivia Game Show that a team and I are developing for Impact.com, utilizing tools such as the Unity Game Engine, Spotify API, Firebase, and Networking libraries like Unity Netcode. This repository is currenly private for confidential reasons.
+- 🌱 I’m currently learning about RESTful API's and how to integrate them into different projects. I am also furthering my knowledge in Unity Game Deveopment as I continue with the project I previously mentioned whilst simultaneously learning how to implement the Observer Software Design Pattern in my code.
+- 👯 I'm seeking an internship opportunity during my last year of study in 2025 (which consists only of elective subjects) to further enhance my technical background and expertise and gain valuable industry experience.
+- 💼 My Linked in profile can be found at: www.linkedin.com/in/dien-ebraheem
 
 <!--
 **Ebidien511/Ebidien511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
