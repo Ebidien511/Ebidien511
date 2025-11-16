@@ -24,6 +24,7 @@
 # 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Ebidien511&theme=dark&hide_border=false)<br/>
 
+###🧠Fruit for thought🧠
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
