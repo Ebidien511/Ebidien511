@@ -22,7 +22,7 @@
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ebidien511&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebidien511)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=Ebidien511&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebidien511&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
