@@ -21,8 +21,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=Ebidien511&theme=dark&hide_border=false)<br/>
 
 ### 🧠Fruit for thought🧠
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
