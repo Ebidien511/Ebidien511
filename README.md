@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ebraheem!
+# 👋 Hi, I'm Ebraheem
 💻 Aspiring Software Engineer passionate about building real-world solutions<br>🎓 BCom Information Systems student at the University of Cape Town<br>🛠️ Hands-on experience with Java, C#, Spring Boot, REST APIs, Unity, MySQL & Cloud<br>🤖 Worked on AI-driven sentiment analysis & multiplayer game development at Impact.com<br>🌱 Learning more about backend engineering, AI integrations & scalable systems<br>📚 Teaching and mentoring 250–300+ students in programming & systems development<br>🚀 Always building, learning, and improving through projects
 # 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
