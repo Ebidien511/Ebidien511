@@ -23,10 +23,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 # 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Ebidien511&theme=dark&hide_border=false)<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ebidien511&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
